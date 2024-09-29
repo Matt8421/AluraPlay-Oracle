@@ -1,0 +1,17 @@
+#AluraPlay
+ 
+ ##Descripción:
+ Este proyecto fue hecho durante el cursado en Oracle-Alura , basicamente simula una página de la compañia brindando 
+ sobre programación.
+
+ ##Tecnologias usadas: 
+  .HTML
+  .CSS
+
+  ##Características:
+ Interfaz responsiva: Dispositivos móviles, tablets y computadoras de escritorio.
+ Diseño moderno: Utiliza una paleta de colores atractiva y una tipografía clara.
+ Efectos de interacción: Se implementaron transiciones sutiles al pasar el cursor sobre los elementos:
+   Efecto de escalado: Los elementos de video aumentan de tamaño ligeramente al pasar , utilizando tranformaciones CSS
+    para generar una experiencia de usuario mas emocionante
+   Hover en el menú lateral: Los elementos cambian del color suavemente al pasar el cursor , proporcionando una retroalimentacion visual agradable
